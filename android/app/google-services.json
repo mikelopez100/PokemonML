@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "117426092579",
+    "firebase_url": "https://pokemonml-ed0c6.firebaseio.com",
+    "project_id": "pokemonml-ed0c6",
+    "storage_bucket": "pokemonml-ed0c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117426092579:android:d9d8b3c1a7d7cb582f8f96",
+        "android_client_info": {
+          "package_name": "com.example.pokemonml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117426092579-5tv5dijmktoimbko4l0vf7g5o51jie5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcdc3nzCiRAAF8EMGOUy2OZpYpvEshWmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117426092579-5tv5dijmktoimbko4l0vf7g5o51jie5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
